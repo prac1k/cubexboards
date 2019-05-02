@@ -7,245 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac42658d-db0b-4c34-8b34-7f7e0e85a96d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CubeX Boards.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-13-25-680.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-13-25-680.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-15-35-969.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-15-35-969.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-29-20-534.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-29-20-534.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-29-31-811.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-29-31-811.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-29-59-587.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-01-18-29-59-587.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-43-44-962.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-43-44-962.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-44-07-946.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-44-07-946.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-46-43-476.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-46-43-476.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-46-50-466.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-46-50-466.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-51-03-182.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-09-51-03-182.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-33-17-735.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-33-17-735.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-44-40-791.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-44-40-791.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-45-34-335.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-45-34-335.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-50-09-352.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-50-09-352.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-50-11-720.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-50-11-720.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-50-48-449.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-50-48-449.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-51-01-594.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-51-01-594.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-51-04-993.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-05-02-10-51-04-993.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/im/delight/android/webview/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/generated/source/r/debug/im/delight/android/webview/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/attr/R.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/R.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/compileDebugAidl/dependency.store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/manifests/aapt/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/manifests/full/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/res/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/src/main/java/im/delight/android/webview/AdvancedWebView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/generated/source/buildConfig/debug/im/delight/android/examples/webview/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/generated/source/buildConfig/release/im/delight/android/examples/webview/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/generated/source/r/debug/im/delight/android/examples/webview/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/generated/source/r/debug/im/delight/android/webview/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/generated/source/r/release/im/delight/android/examples/webview/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/generated/source/r/release/im/delight/android/webview/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/release/multi-v2/release.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/release/multi-v2/values-v11.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/release/multi-v2/values-v14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/release/multi-v2/values.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/release/single/release.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/BuildConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/MainActivity$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/MainActivity$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/MainActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/R$drawable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/R$id.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/R$layout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/R$string.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/R$style.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/examples/webview/R.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/debug/im/delight/android/webview/R.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/BuildConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/MainActivity$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/MainActivity$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/MainActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/R$drawable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/R$id.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/R$layout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/R$string.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/R$style.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/examples/webview/R.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/classes/release/im/delight/android/webview/R.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/compileDebugAidl/dependency.store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/G0wXS_gchDycA68iivuSh1IZkDw=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/G0wXS_gchDycA68iivuSh1IZkDw=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/debug/zip-cache/kOqukbXztLr00oBfLs7oLgjQd50=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageRelease/release/dex-renamer-state.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageRelease/release/file-input-save-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageRelease/release/zip-cache/s2quA732NTFENOp+SnEe9UBbl+Q=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/release-mergeJavaRes/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/release-mergeJavaRes/zip-cache/Be5PzL5mZkz65emT18R9H6Ko9bQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/release-mergeJniLibs/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/release-mergeJniLibs/zip-cache/Be5PzL5mZkz65emT18R9H6Ko9bQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/javaPrecompile/debug/annotationProcessors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/javaPrecompile/release/annotationProcessors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/density/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/density/release/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/full/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/full/release/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/full/release/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/instant-run/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/manifests/instant-run/release/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/debug/resources-debug.ap_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/layout_activity_main.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/values-v11_values-v11.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/values-v14_values-v14.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/release/values_values.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/release/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/release/resources-release.ap_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/splits-support/debug/split-list.gson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/splits-support/release/split-list.gson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/symbols/debug/R.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/symbols/release/R.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dex/release/0/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dex/release/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/BuildConfig.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/MainActivity$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/MainActivity$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/MainActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/R$drawable.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/R$id.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/R$layout.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/R$string.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/R$style.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/examples/webview/R.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5/im/delight/android/webview/R.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJavaRes/release/0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJavaRes/release/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJniLibs/release/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/preDex/release/0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/preDex/release/1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/preDex/release/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/outputs/apk/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/outputs/apk/debug/sample-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/outputs/logs/manifest-merger-release-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/reports/lint-results-release-fatal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/reports/lint-results-release-fatal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/release/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/release/sample-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/sample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/java/im/delight/android/examples/webview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/values-v11/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/values-v14/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -286,18 +49,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="297">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -347,6 +114,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/sample/build.gradle" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -556,6 +324,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32969153" />
@@ -683,8 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="297">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>

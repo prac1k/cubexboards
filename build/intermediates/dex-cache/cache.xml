@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android-AdvancedWebView-master\library\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c4873e85e0edfb4da02173f6be681ca13ccb157">
+        <dex dex="D:\Android-AdvancedWebView-master\sample\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>
